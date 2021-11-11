@@ -7,7 +7,10 @@
 ## Description:
 This project really forced me to get a better understanding of React and Mongo. I learned a lot through the process in how the two intertwine. I had a lot of challenges connecting to the actual graphQL, thankfully, I was able to study other examples online to correct my issues.
 
-![Demo photo](https://i.imgur.com/7eeHyiK.mp4)
+
+https://user-images.githubusercontent.com/11338807/141246888-13a85a2f-b6b2-42f7-9c8c-d9f4339b79cc.mp4
+
+
 
 
 ## Table of Contents
